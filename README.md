@@ -1,4 +1,6 @@
 # morse-ocr
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 PoC/Alpha of a tool written in Python (mocr.py) to read morse code from a picture-file (here: "morse.png") and translate it into readable text.
 
 ***Usage:*** "mocr.py \<image-file>"
