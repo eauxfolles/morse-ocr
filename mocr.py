@@ -74,6 +74,7 @@ translate = {
 # validate input provided with command line (has to be 2 parameters or "-help")
 if len(sys.argv) < 2:
     print("error: no parameters provided")
+    exit()
 elif sys.argv[1] == "-help" or sys.argv[1] == "--help":
     print("usage: mocr.py <image-file>")
     exit()
