@@ -4,7 +4,10 @@
 
 PoC/Alpha of a tool written in Python (mocr.py) to read morse code from a picture-file (here: "morse.png") and translate it into readable text. Tested under Windows.
 
-***Usage:*** "mocr.py \<image-file>"
+***Usage:*** "mocr.py \<image>"
+
+Where: 
+* \<image> is image-file.
 
 Supported image formats (and others, see https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html for details):
 * .bmp
