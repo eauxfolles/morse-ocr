@@ -5,7 +5,7 @@
 # Author: eauxfolles
 # Date: 10.07.2020
 # Description: Script to read morse code from file and translate into readable text
-# Usage: "mocr.py <image-file>"
+# Usage: "mocr.py <image>"
 # Assumptions:  - Morse code expected to be reflected as "." and "-"
 #               - "." expected to be 1 pixel, "-" expected to be 3 pixel long
 #               - Image has consistent background color (as pixel at position 0,0)
