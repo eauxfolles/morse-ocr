@@ -76,7 +76,7 @@ if len(sys.argv) < 2:
     print("error: no parameters provided")
     exit()
 elif sys.argv[1] == "-help" or sys.argv[1] == "--help":
-    print("usage: mocr.py <image-file>")
+    print("usage: mocr.py <image>")
     exit()
 elif len(sys.argv) == 2:
     image_file = sys.argv[1]
